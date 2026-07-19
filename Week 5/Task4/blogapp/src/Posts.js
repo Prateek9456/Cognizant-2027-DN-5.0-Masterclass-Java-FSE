@@ -1,3 +1,4 @@
+// Output: Fetches a list of posts from an API, saves them to state, and maps over them to render a list of Post components (with error handling)
 import React from 'react';
 import Post from './Post';
 

@@ -1,3 +1,4 @@
+// Output: Displays a heading reading "Welcome to the About page of the Student Management Portal"
 import React from 'react';
 
 function About() {

@@ -1,3 +1,4 @@
+// Output: Displays a styled scoreboard showing the student's Name, School, Total, Goal, and the calculated Average score
 import React from 'react';
 import '../Stylesheets/mystyle.css';
 

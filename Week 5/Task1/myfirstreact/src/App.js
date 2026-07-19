@@ -1,3 +1,4 @@
+// Output: Displays a heading reading "welcome to the first session of React"
 import React from 'react';
 
 function App() {

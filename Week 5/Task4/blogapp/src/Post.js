@@ -1,3 +1,4 @@
+// Output: Renders an individual post displaying its title as a heading and its body as a paragraph
 import React from 'react';
 
 class Post extends React.Component {

@@ -1,3 +1,4 @@
+// Output: Displays cohort details in a styled box, applying conditional green text to the heading if the status is 'ongoing', otherwise blue
 import React from 'react';
 import styles from './CohortDetails.module.css';
 

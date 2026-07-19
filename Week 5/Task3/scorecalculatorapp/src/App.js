@@ -1,3 +1,4 @@
+// Output: Renders the CalculateScore component with sample student props (Name, School, Total, goal)
 import React from 'react';
 import CalculateScore from './Components/CalculateScore';
 

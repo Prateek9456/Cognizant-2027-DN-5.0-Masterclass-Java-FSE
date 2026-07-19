@@ -1,3 +1,4 @@
+// Output: Displays a heading reading "Welcome to the Home page of Student Management Portal"
 import React from 'react';
 
 function Home() {

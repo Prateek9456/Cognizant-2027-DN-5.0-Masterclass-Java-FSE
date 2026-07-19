@@ -1,3 +1,4 @@
+// Output: Renders multiple CohortDetails components based on the static cohorts array
 import React from 'react';
 import CohortDetails from './CohortDetails';
 

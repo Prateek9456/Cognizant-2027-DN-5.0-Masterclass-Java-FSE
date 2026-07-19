@@ -1,3 +1,4 @@
+// Output: Renders the Home, About, and Contact components sequentially on the main page
 import React from 'react';
 import Home from './Components/Home';
 import About from './Components/About';
